@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[Pre-Work Task Walkthrough](https://imgflip.com/gif/7wkfpi)
+[Pre-Work Task Walkthrough](https://imgflip.com/gif/7wkgbh)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [GIF-MAKER] https://imgflip.com/gif-maker
