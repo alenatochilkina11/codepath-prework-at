@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *HueHello*
 
 Submitted by: **Alena Tochilkina**
 
-**Name of your app** is an app that... [TODO] 
+**HueHello** is an app that introduces me to CodePath staff. The app changes backround color on a tap of the button;
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total (1.5 hours on creating a GIF)
 
 ## Required Features
 
@@ -12,7 +12,12 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
+
+## Additional Features
+
+ - [x] Users can reset the backround color to its default (white color)
+ - [x] The text color changes based on the brighness of the background color
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -47,11 +52,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Creating a GIF was tough because I never did anything like that. I captured the screen, but didn't know how to convert it to GIF format.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Alena Tochilkina]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
